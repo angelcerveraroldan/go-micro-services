@@ -2,5 +2,6 @@
 
 ./broker-service/brokerApp
 ./front-end/frontApp
+./authentication-service/authApp
 
 */db-data
